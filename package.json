@@ -1,0 +1,9 @@
+{
+  "name": "desafioescribo",
+  "version": "1.0.0",
+  "main": "./js/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./js/index.js"
+  }
+}
