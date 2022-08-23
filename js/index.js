@@ -1,4 +1,4 @@
-const readLine = require('readline')
+import readLine from 'readline'
 
 const cmd = readLine.createInterface(process.stdin, process.stdout)
 
